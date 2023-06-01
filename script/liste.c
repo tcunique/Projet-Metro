@@ -84,3 +84,48 @@ void ecrire_liste(Un_elem **liste){
         *liste = inserer_liste_trie(*liste, truc);
     }
 }
+
+void detruire_liste_truc(Un_elem *liste){
+    while (liste != NULL)
+    {
+        Un_elem *tmp = liste;
+        liste = liste->suiv;
+        detruire_truc(tmp->truc);
+        free(tmp);
+    }
+}
+
+void affiche_liste(Un_elem *liste){
+    while (liste != NULL)
+    {
+        afficher_truc(liste->truc);
+        liste = liste->suiv;
+    }
+}
+
+void limites_zone(Un_elem *liste, Une_coord *limite_no, Une_coord *limite_se){
+    limite_no->latitude = liste->truc->coord.latitude;
+    limite_no->longitude = liste->truc->coord.longitude;
+    limite_se->latitude = liste->truc->coord.latitude;
+    limite_se->longitude = liste->truc->coord.longitude;
+    while (liste != NULL)
+    {
+        if (liste->truc->coord.latitude > limite_no->latitude)
+        {
+            limite_no->latitude = liste->truc->coord.latitude;
+        }
+        if (liste->truc->coord.longitude < limite_no->longitude)
+        {
+            limite_no->longitude = liste->truc->coord.longitude;
+        }
+        if (liste->truc->coord.latitude < limite_se->latitude)
+        {
+            limite_se->latitude = liste->truc->coord.latitude;
+        }
+        if (liste->truc->coord.longitude > limite_se->longitude)
+        {
+            limite_se->longitude = liste->truc->coord.longitude;
+        }
+        liste = liste->suiv;
+    }
+}

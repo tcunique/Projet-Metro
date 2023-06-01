@@ -30,14 +30,8 @@ int main(void){
     printf("--------------------\n");
     Un_elem *liste = NULL;
     ecrire_liste(&liste);
-    while (liste != NULL)
-    {
-        Un_elem *tmp = liste;
-        liste = liste->suiv;
-        afficher_truc(tmp->truc);
-        printf("\n");
-        detruire_truc(tmp->truc);
-    }
+    affiche_liste(liste);
+    detruire_liste_truc(liste);
 
     return 0;
 }
