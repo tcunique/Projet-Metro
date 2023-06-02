@@ -3,6 +3,8 @@
 #include <string.h>
 #include "truc.h"
 #include "liste.h"
+#include "abr.h"
+#include "ligne.h"
 
 
 int main(void){
@@ -32,6 +34,28 @@ int main(void){
     ecrire_liste(&liste);
     affiche_liste(liste);
     detruire_liste_truc(liste);
+
+    printf("\n");
+    printf("Test 3 abr\n");
+    printf("--------------------\n");
+    Un_elem *liste_station = NULL;
+    ecrire_liste(&liste_station);
+    Un_abr *abr = construire_abr(liste_station);
+    char *nom = "La Défense - Grande Arche";
+    Un_truc *truc2 = chercher_station(abr, nom);
+    Un_truc *truc3 = chercher_station(abr, "");
+    afficher_truc(truc2);    
+    afficher_truc(truc3);
+
+    detruire_liste_truc(liste_station);
+    detruire_abr(abr);
+
+    printf("\n");
+    printf("Test 4\n");
+    printf("--------------------\n");
+    Une_ligne *ligne = lire_ligne("ligne.csv");
+    afficher_ligne(ligne);
+    detruire_ligne(ligne);
 
     return 0;
 }

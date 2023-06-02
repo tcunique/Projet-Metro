@@ -75,6 +75,9 @@ void ecrire_liste(Un_elem **liste){
         ligne = strtok(NULL, ";");
 
         strcpy(sta.nom, ligne);
+        //On supprime l'espace du début et \n de la fin
+        memmove(sta.nom, sta.nom + 1, strlen(sta.nom));
+        sta.nom[strlen(sta.nom) - 1] = '\0';
 
         //On crée l'élément et on le rajoute à la liste
         data.sta = sta;

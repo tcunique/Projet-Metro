@@ -12,4 +12,8 @@ typedef struct _une_ligne{
     struct _une_ligne *suiv;
 } Une_ligne;
 
+Une_ligne *lire_ligne(char *nom_fichier);
+void afficher_ligne(Une_ligne *liste_ligne);
+void detruire_ligne(Une_ligne *liste_ligne);
+
 #endif

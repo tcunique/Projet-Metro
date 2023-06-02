@@ -12,19 +12,25 @@ Un_truc *creer_truc(Une_coord coord, Ttype type, Tdata data, double uv){
 }
 
 void detruire_truc(Un_truc *truc) {
-    if (truc->type == STA) {
-        if (truc->data.sta.nom != NULL) {
-            free(truc->data.sta.nom);
+    if (truc != NULL) {
+        if (truc->type == STA) {
+            if (truc->data.sta.nom != NULL) {
+                free(truc->data.sta.nom);
+            }
         }
-    }
     free(truc);
+    }
 }
 
 void afficher_truc(Un_truc *truc){
+    if (truc == NULL){
+        printf("Truc NULL\n");
+        return;
+    }
     printf("Coordonnées : latitude = %lf, longitude = %lf\n", truc->coord.latitude, truc->coord.longitude);
     if(truc->type == STA){
         printf("Type : STA\n");
-        printf("Nom : %s", truc->data.sta.nom);
+        printf("Nom : %s\n", truc->data.sta.nom);
     }
     else{
         printf("Type : CON\n");
