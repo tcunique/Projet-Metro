@@ -27,9 +27,11 @@ clean:
 	rm -f $(OBJS) $(EXEC)
 
 # Dépendances
-main.o: main.c liste.h truc.h abr.h ligne.h
-truc.o: truc.c truc.h coord.h connexion.h station.h 
-liste.o: liste.c liste.h truc.h
+main.o: main.c liste.h truc.h abr.h ligne.h connexion.h
+truc.o: truc.c truc.h coord.h station.h 
+liste.o: liste.c liste.h truc.h connexion.h
 coord.o: coord.c coord.h
-abr.o: abr.c abr.h truc.h liste.h
+abr.o: abr.c abr.h liste.h truc.h 
 ligne.o: ligne.c ligne.h truc.h
+connexion.o: connexion.c connexion.h truc.h abr.h ligne.h
+

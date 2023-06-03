@@ -39,4 +39,3 @@ void afficher_truc(Un_truc *truc){
     }
     printf("User_val : %lf\n", truc->user_val);
 }
-

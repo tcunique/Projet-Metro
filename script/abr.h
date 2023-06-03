@@ -16,5 +16,6 @@ Un_abr *construire_abr(Un_elem *liste_station);
 Un_abr *inserer_abr(Un_abr **abr, Un_abr *noeud);
 Un_abr *creer_abr(Un_truc *truc);
 Un_truc *chercher_station(Un_abr *abr, char *nom);
+void afficher_abr(Un_abr *abr);
 
 #endif

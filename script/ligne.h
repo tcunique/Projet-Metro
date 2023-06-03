@@ -15,5 +15,6 @@ typedef struct _une_ligne{
 Une_ligne *lire_ligne(char *nom_fichier);
 void afficher_ligne(Une_ligne *liste_ligne);
 void detruire_ligne(Une_ligne *liste_ligne);
+Une_ligne *chercher_ligne(Une_ligne *liste_ligne, char *code);
 
 #endif

@@ -62,6 +62,7 @@ Une_ligne *lire_ligne(char *nom_fichier){
             tmp->suiv = ligne;
         }
     }
+    fclose(f);
     return result;
 }
 
@@ -90,4 +91,15 @@ void detruire_ligne(Une_ligne *liste_ligne){
         }
         tmp = suiv;
     }
+}
+
+Une_ligne *chercher_ligne(Une_ligne *liste_ligne, char *code) {
+    Une_ligne *tmp = liste_ligne;
+    while (tmp != NULL){
+        if (strcmp(tmp->code, code) == 0){
+            return tmp;
+        }
+        tmp = tmp->suiv;
+    }
+    return NULL;
 }

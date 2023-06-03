@@ -22,6 +22,9 @@ Un_abr *inserer_abr(Un_abr **abr, Un_abr *noeud){
         if (strcmp((*abr)->truc->data.sta.nom, noeud->truc->data.sta.nom) < 0){
             inserer_abr(&((*abr)->d), noeud);
         }
+        if (strcmp((*abr)->truc->data.sta.nom, noeud->truc->data.sta.nom) == 0){
+            return NULL;
+        }
     }
     return *abr;
 }
@@ -62,5 +65,13 @@ Un_truc *chercher_station(Un_abr *abr, char *nom){
                 return chercher_station(abr->d, nom);
             }
         }
+    }
+}
+
+void afficher_abr(Un_abr *abr){
+    if(abr != NULL){
+        afficher_abr(abr->g);
+        afficher_truc(abr->truc);
+        afficher_abr(abr->d);
     }
 }

@@ -1,301 +1,378 @@
 2.238020 ; 48.891747 ; La Défense - Grande Arche
-2.247464 ; 48.888930 ; Esplanade de La Défense
-2.257531 ; 48.884751 ; Pont de Neuilly
-2.272772 ; 48.882657 ; Les Sablons
-2.283050 ; 48.877680 ; Porte Maillot
-2.289263 ; 48.875023 ; Argentine
-2.295021 ; 48.873864 ; Charles de Gaulle - Étoile
-2.300832 ; 48.872128 ; George V
-2.305804 ; 48.871909 ; Franklin D. Roosevelt
-2.312981 ; 48.866005 ; Champs-Élysées - Clemenceau
-2.321621 ; 48.865915 ; Concorde
-2.330146 ; 48.864524 ; Tuileries
-2.336355 ; 48.862312 ; Palais Royal - Musée du Louvre
-2.340722 ; 48.860861 ; Louvre - Rivoli
-2.347516 ; 48.858261 ; Châtelet
-2.351701 ; 48.857381 ; Hôtel de Ville
-2.358603 ; 48.855155 ; Saint-Paul
-2.369211 ; 48.853891 ; Bastille
-2.373145 ; 48.844980 ; Gare de Lyon
-2.388494 ; 48.845200 ; Reuilly - Diderot
-2.395464 ; 48.848073 ; Nation
-2.347701 ; 48.883308 ; Porte Dauphine
-2.345069 ; 48.877811 ; Victor Hugo
-2.341743 ; 48.872506 ; Charles de Gaulle - Étoile
-2.333989 ; 48.868217 ; Ternes
-2.326196 ; 48.873807 ; Courcelles
-2.321502 ; 48.877470 ; Monceau
-2.314828 ; 48.879955 ; Villiers
-2.311735 ; 48.882439 ; Rome
-2.309774 ; 48.884554 ; Place de Clichy
-2.328345 ; 48.886955 ; Blanche
-2.326962 ; 48.887806 ; Pigalle
-2.332166 ; 48.883097 ; Anvers
-2.341476 ; 48.882325 ; Barbès - Rochechouart
-2.349281 ; 48.882361 ; La Chapelle
-2.356059 ; 48.882213 ; Stalingrad
-2.363231 ; 48.882409 ; Jaurès
-2.375108 ; 48.882229 ; Colonel Fabien
-2.381956 ; 48.878713 ; Belleville
-2.385266 ; 48.875691 ; Couronnes
-2.390043 ; 48.869953 ; Ménilmontant
-2.398926 ; 48.864905 ; Père Lachaise
-2.402377 ; 48.861474 ; Philippe Auguste
-2.408074 ; 48.855863 ; Alexandre Dumas
-2.409611 ; 48.849124 ; Avron
-2.409127 ; 48.840815 ; Nation
-2.393147 ; 48.800421 ; Pont de Levallois - Bécon
-2.304810 ; 48.823453 ; Anatole France
-2.290201 ; 48.830546 ; Louise Michel
-2.287103 ; 48.832601 ; Porte de Champerret
-2.286447 ; 48.838999 ; Pereire
-2.296132 ; 48.844189 ; Wagram
-2.301181 ; 48.874993 ; Malesherbes
-2.313277 ; 48.880778 ; Villiers
-2.319864 ; 48.885791 ; Europe
-2.324822 ; 48.889355 ; Saint-Lazare
-2.337140 ; 48.887275 ; Havre - Caumartin
-2.342020 ; 48.876925 ; Opéra
-2.346064 ; 48.871980 ; Quatre-Septembre
-2.348406 ; 48.866215 ; Bourse
-2.353125 ; 48.862146 ; Sentier
-2.352322 ; 48.857227 ; Réaumur - Sébastopol
-2.352857 ; 48.855069 ; Arts et Métiers
-2.356471 ; 48.854118 ; Temple
-2.359236 ; 48.855622 ; République
-2.366767 ; 48.869862 ; Parmentier
-2.371548 ; 48.875786 ; Rue Saint-Maur
-2.380353 ; 48.881008 ; Père Lachaise
-2.395012 ; 48.883109 ; Gambetta
-2.406447 ; 48.883351 ; Porte de Bagnolet
-2.411394 ; 48.877941 ; Gallieni
-2.293534 ; 48.860652 ; Porte de Clignancourt
-2.346194 ; 48.883592 ; Marcadet - Poissonniers
-2.351808 ; 48.891603 ; Château Rouge
-2.357206 ; 48.894492 ; Barbès - Rochechouart
-2.359097 ; 48.896179 ; Gare du Nord
-2.355051 ; 48.879449 ; Gare de l'Est
-2.357078 ; 48.872041 ; Château d'Eau
-2.357383 ; 48.866417 ; Strasbourg - Saint-Denis
-2.359959 ; 48.863273 ; Réaumur - Sébastopol
-2.355872 ; 48.856013 ; Étienne Marcel
-2.347663 ; 48.854715 ; Les Halles
-2.338773 ; 48.852996 ; Châtelet
-2.325266 ; 48.851267 ; Cité
-2.332719 ; 48.855549 ; Saint-Michel
-2.340306 ; 48.854110 ; Odéon
-2.344186 ; 48.851577 ; Saint-Germain-des-Prés
-2.337222 ; 48.847996 ; Saint-Sulpice
-2.332029 ; 48.846118 ; Saint-Placide
-2.330667 ; 48.840090 ; Montparnasse - Bienvenüe
-2.334982 ; 48.834362 ; Vavin
-2.336815 ; 48.830669 ; Raspail
-2.333519 ; 48.827258 ; Denfert-Rochereau
-2.326848 ; 48.823943 ; Mouton-Duvernet
-2.322444 ; 48.821906 ; Alésia
-2.314836 ; 48.823022 ; Porte d'Orléans
-2.355550 ; 48.829199 ; Bobigny - Pablo Picasso
-2.356557 ; 48.819826 ; Bobigny - Pantin - Raymond Queneau
-2.359077 ; 48.816207 ; Église de Pantin
-2.364260 ; 48.812476 ; Hoche
-2.372214 ; 48.815157 ; Porte de Pantin
-2.381308 ; 48.817503 ; Ourcq
-2.384048 ; 48.821491 ; Laumière
-2.385463 ; 48.827705 ; Jaurès
-2.387857 ; 48.836258 ; Stalingrad
-2.390654 ; 48.846564 ; Gare du Nord
-2.355464 ; 48.854670 ; Gare de l'Est
-2.358482 ; 48.864651 ; Jacques Bonsergent
-2.359488 ; 48.869692 ; République
-2.364363 ; 48.874602 ; Oberkampf
-2.372324 ; 48.875765 ; Richard-Lenoir
-2.377477 ; 48.875752 ; Bréguet - Sabin
-2.383835 ; 48.872561 ; Bastille
-2.388398 ; 48.864135 ; Quai de la Rapée
-2.384844 ; 48.853462 ; Gare d'Austerlitz
-2.367117 ; 48.846501 ; Saint-Marcel
-2.356877 ; 48.837109 ; Campo-Formio
-2.349172 ; 48.832103 ; Place d'Italie
-2.355221 ; 48.823434 ; Tolbiac
-2.363878 ; 48.819238 ; Maison Blanche
-2.365679 ; 48.817375 ; Le Kremlin-Bicêtre
-2.359674 ; 48.816730 ; Porte d'Italie
-2.353570 ; 48.816319 ; Porte de Choisy
-2.351046 ; 48.813288 ; Porte d'Ivry
-2.365388 ; 48.800982 ; Pierre et Marie Curie
-2.376680 ; 48.798154 ; Mairie d'Ivry
-2.385537 ; 48.795158 ; Le Kremlin-Bicêtre - Hôpital
-2.390972 ; 48.792528 ; Villejuif - Léo Lagrange
-2.398167 ; 48.790158 ; Villejuif - Paul Vaillant-Couturier
-2.405066 ; 48.786743 ; Villejuif - Louis Aragon
-2.413699 ; 48.784409 ; Villejuif - L'Haÿ-les-Roses
-2.293194 ; 48.875900 ; Charles de Gaulle - Étoile
-2.303179 ; 48.872062 ; Kléber
-2.299689 ; 48.868568 ; Boissière
-2.299491 ; 48.857303 ; Trocadéro
-2.299706 ; 48.850221 ; Passy
-2.289882 ; 48.845111 ; Bir-Hakeim
-2.289918 ; 48.838994 ; Dupleix
-2.289808 ; 48.832484 ; La Motte-Picquet - Grenelle
-2.296728 ; 48.825724 ; Cambronne
-2.302369 ; 48.821054 ; Sèvres - Lecourbe
-2.306528 ; 48.818040 ; Pasteur
-2.311979 ; 48.816381 ; Montparnasse - Bienvenüe
-2.318697 ; 48.837022 ; Edgar Quinet
-2.323161 ; 48.842920 ; Raspail
-2.333040 ; 48.849385 ; Denfert-Rochereau
-2.340386 ; 48.852718 ; Saint-Jacques
-2.343089 ; 48.854880 ; Glacière
-2.344615 ; 48.860369 ; Corvisart
-2.346934 ; 48.866508 ; Place d'Italie
-2.379123 ; 48.822920 ; La Courneuve - 8 Mai 1945
-2.382145 ; 48.816897 ; Fort d'Aubervilliers
-2.388090 ; 48.910207 ; Front Populaire
-2.378314 ; 48.901906 ; Porte de la Villette
-2.374001 ; 48.893932 ; Corentin Cariou
-2.374736 ; 48.883784 ; Crimée
-2.377678 ; 48.879503 ; Riquet
-2.381979 ; 48.877785 ; Stalingrad
-2.383679 ; 48.870761 ; Louis Blanc
-2.385647 ; 48.864885 ; Château-Landon
-2.359010 ; 48.849458 ; Gare de l'Est
-2.357536 ; 48.840363 ; Poissonnière
-2.354092 ; 48.835718 ; Cadet
-2.347456 ; 48.833433 ; Le Peletier
-2.337334 ; 48.832760 ; Chaussée d'Antin - La Fayette
-2.329897 ; 48.831796 ; Opéra
-2.326283 ; 48.827920 ; Pyramides
-2.325476 ; 48.822204 ; Palais Royal - Musée du Louvre
-2.331587 ; 48.815591 ; Pont Neuf
-2.346134 ; 48.811802 ; Pont Marie
-2.348933 ; 48.854566 ; Jussieu
-2.350964 ; 48.855070 ; Place Monge
-2.351690 ; 48.844264 ; Censier - Daubenton
-2.352755 ; 48.840169 ; Les Gobelins
-2.356325 ; 48.837218 ; Place d'Italie
-2.340315 ; 48.875111 ; Balard
-2.336886 ; 48.865270 ; Lourmel
-2.330070 ; 48.858869 ; Boucicaut
-2.319248 ; 48.848668 ; Félix Faure
-2.311852 ; 48.844686 ; Commerce
-2.305783 ; 48.843674 ; La Motte-Picquet - Grenelle
-2.295157 ; 48.844301 ; École Militaire
-2.286242 ; 48.845257 ; La Tour-Maubourg
-2.282361 ; 48.847675 ; Invalides
-2.314523 ; 48.860870 ; Concorde
-2.327653 ; 48.864241 ; Madeleine
-2.339982 ; 48.869917 ; Opéra
-2.346774 ; 48.872869 ; Richelieu - Drouot
-2.347320 ; 48.877942 ; Grands Boulevards
-2.347828 ; 48.884426 ; Bonne Nouvelle
-2.348573 ; 48.890295 ; Strasbourg - Saint-Denis
-2.357913 ; 48.896476 ; République
-2.364325 ; 48.897354 ; Filles du Calvaire
-2.370978 ; 48.897042 ; Saint-Sébastien - Froissart
-2.375204 ; 48.897306 ; Chemin Vert
-2.380558 ; 48.897749 ; Bastille
-2.387023 ; 48.899079 ; Ledru-Rollin
-2.392642 ; 48.899711 ; Faidherbe - Chaligny
-2.399845 ; 48.853457 ; Liberté
-2.405190 ; 48.846603 ; Charenton - Écoles
-2.407558 ; 48.840815 ; École Vétérinaire de Maisons-Alfort
-2.409351 ; 48.835593 ; Maisons-Alfort - Stade
-2.281542 ; 48.870200 ; Pont de Sèvres
-2.267075 ; 48.866088 ; Billancourt
-2.259619 ; 48.862611 ; Marcel Sembat
-2.251225 ; 48.857309 ; Porte de Saint-Cloud
-2.246340 ; 48.851196 ; Exelmans
-2.243699 ; 48.845652 ; Michel-Ange - Molitor
-2.242268 ; 48.839371 ; Michel-Ange - Auteuil
-2.249894 ; 48.833610 ; Jasmin
-2.256632 ; 48.828336 ; Ranelagh
-2.263548 ; 48.826404 ; La Muette
-2.276872 ; 48.827935 ; Rue de la Pompe
-2.282523 ; 48.828963 ; Trocadéro
-2.287888 ; 48.832231 ; Iéna
-2.297023 ; 48.838330 ; Alma - Marceau
-2.300208 ; 48.844245 ; Franklin D. Roosevelt
-2.304087 ; 48.847157 ; Saint-Philippe du Roule
-2.309255 ; 48.851738 ; Miromesnil
-2.316301 ; 48.855944 ; Saint-Augustin
-2.322774 ; 48.857627 ; Havre - Caumartin
-2.330800 ; 48.858676 ; Chaussée d'Antin - La Fayette
-2.337140 ; 48.856528 ; Richelieu - Drouot
-2.340526 ; 48.854511 ; Grands Boulevards
-2.343662 ; 48.853293 ; Bonne Nouvelle
-2.348439 ; 48.851880 ; Strasbourg - Saint-Denis
-2.351606 ; 48.849591 ; République
-2.359584 ; 48.848218 ; Oberkampf
-2.363933 ; 48.847122 ; Saint-Ambroise
-2.371512 ; 48.846287 ; Voltaire
-2.377760 ; 48.843927 ; Charonne
-2.381206 ; 48.840098 ; Rue des Boulets
-2.385018 ; 48.838078 ; Nation
-2.252870 ; 48.881102 ; Boulogne - Pont de Saint-Cloud
-2.248750 ; 48.874711 ; Boulogne - Jean Jaurès
-2.244974 ; 48.869155 ; Porte d'Auteuil
-2.256306 ; 48.856257 ; Michel-Ange - Molitor
-2.250561 ; 48.851360 ; Chardon-Lagache
-2.249105 ; 48.843694 ; Mirabeau
-2.253095 ; 48.838448 ; Javel - André Citroën
-2.269211 ; 48.838546 ; Charles Michels
-2.281798 ; 48.839956 ; Avenue Émile Zola
-2.286650 ; 48.838562 ; La Motte-Picquet - Grenelle
-2.292090 ; 48.846609 ; Ségur
-2.299369 ; 48.850542 ; Duroc
-2.307078 ; 48.849332 ; Vaneau
-2.312810 ; 48.846848 ; Sèvres - Babylone
-2.319464 ; 48.846964 ; Mabillon
-2.330146 ; 48.864524 ; Odéon
-2.335617 ; 48.854042 ; Cluny - La Sorbonne
-2.343573 ; 48.849727 ; Maubert - Mutualité
-2.349607 ; 48.847434 ; Cardinal Lemoine
-2.352886 ; 48.843328 ; Jussieu
-2.359322 ; 48.840258 ; Gare d'Austerlitz
-2.368915 ; 48.838547 ; Quai de la Gare
-2.376195 ; 48.836663 ; Bibliothèque François Mitterrand
-2.381308 ; 48.834472 ; Chevaleret
-2.383351 ; 48.829294 ; Nationale
-2.386858 ; 48.827139 ; Place d'Italie
-2.280451 ; 48.883836 ; Châtelet
-2.283437 ; 48.875919 ; Hôtel de Ville
-2.289757 ; 48.867051 ; Rambuteau
-2.293881 ; 48.860702 ; Arts et Métiers
-2.298281 ; 48.856136 ; République
-2.302296 ; 48.855760 ; Goncourt
-2.307924 ; 48.858275 ; Belleville
-2.314445 ; 48.858438 ; Pyrénées
-2.318080 ; 48.858852 ; Jourdain
-2.325304 ; 48.859518 ; Place des Fêtes
-2.334604 ; 48.859780 ; Télégraphe
-2.346401 ; 48.860470 ; Porte des Lilas
-2.350325 ; 48.865139 ; Mairie des Lilas
-2.332666 ; 48.897154 ; Front Populaire
-2.330957 ; 48.890913 ; Porte de la Chapelle
-2.326346 ; 48.884737 ; Marx Dormoy
-2.347113 ; 48.882163 ; Marcadet - Poissonniers
-2.357202 ; 48.886458 ; Jules Joffrin
-2.363231 ; 48.882409 ; Lamarck - Caulaincourt
-2.370353 ; 48.882318 ; Abbesses
-2.378487 ; 48.882524 ; Pigalle
-2.384596 ; 48.882268 ; Saint-Georges
-2.390086 ; 48.882061 ; Notre-Dame-de-Lorette
-2.395764 ; 48.881485 ; Trinité - d'Estienne d'Orves
-2.399250 ; 48.879723 ; Saint-Lazare
-2.305957 ; 48.874170 ; Madeleine
-2.312562 ; 48.871340 ; Concorde
-2.320080 ; 48.866694 ; Assemblée Nationale
-2.326129 ; 48.860527 ; Solférino
-2.329797 ; 48.856622 ; Rue du Bac
-2.333509 ; 48.852859 ; Sèvres - Babylone
-2.339482 ; 48.848537 ; Rennes
-2.344602 ; 48.844396 ; Notre-Dame-des-Champs
-2.346589 ; 48.839887 ; Montparnasse - Bienvenüe
-2.341243 ; 48.830179 ; Falguière
-2.340802 ; 48.823668 ; Pasteur
-2.333929 ; 48.817104 ; Volontaires
-2.328621 ; 48.811702 ; Vaugirard
-2.319430 ; 48.808090 ; Convention
-2.313963 ; 48.805819 ; Porte de Versailles
-2.308073 ; 48.805768 ; Corentin Celton
-2.302682 ; 48.805090 ; Mairie d'Issy
+2.249040 ; 48.892070 ; Esplanade de la Défense
+2.250447 ; 48.892508 ; Pont de Neuilly
+2.258440 ; 48.875888 ; Les Sablons
+2.289931 ; 48.877963 ; Porte Maillot
+2.301413 ; 48.875036 ; Argentine
+2.298233 ; 48.873826 ; Charles de Gaulle - Étoile
+2.300370 ; 48.872067 ; George V
+2.300507 ; 48.870802 ; Franklin D. Roosevelt
+2.304167 ; 48.868217 ; Champs-Élysées - Clemenceau
+2.330622 ; 48.865618 ; Concorde
+2.337643 ; 48.866304 ; Tuileries
+2.340430 ; 48.860197 ; Palais Royal - Musée du Louvre
+2.340361 ; 48.861087 ; Louvre - Rivoli
+2.347552 ; 48.859998 ; Châtelet
+2.352222 ; 48.857256 ; Hôtel de Ville
+2.356575 ; 48.854526 ; Saint-Paul
+2.367231 ; 48.852865 ; Bastille
+2.372640 ; 48.844396 ; Gare de Lyon
+2.382647 ; 48.845491 ; Reuilly - Diderot
+2.395644 ; 48.848445 ; Nation
+2.408086 ; 48.847336 ; Porte de Vincennes
+2.415974 ; 48.843243 ; Saint-Mandé
+2.429261 ; 48.845439 ; Bérault
+2.435806 ; 48.842907 ; Château de Vincennes
+2.258295 ; 48.876819 ; Porte Dauphine
+2.282731 ; 48.874963 ; Victor Hugo
+2.296626 ; 48.873824 ; Charles de Gaulle - Étoile
+2.298234 ; 48.876173 ; Ternes
+2.298680 ; 48.878007 ; Courcelles
+2.300607 ; 48.879232 ; Monceau
+2.304431 ; 48.880624 ; Villiers
+2.306089 ; 48.882530 ; Rome
+2.308502 ; 48.884231 ; Place de Clichy
+2.324910 ; 48.885503 ; Blanche
+2.331371 ; 48.883004 ; Pigalle
+2.337817 ; 48.882476 ; Anvers
+2.348090 ; 48.882959 ; Barbès - Rochechouart
+2.349850 ; 48.883308 ; La Chapelle
+2.359313 ; 48.883453 ; Stalingrad
+2.368089 ; 48.882940 ; Jaurès
+2.382423 ; 48.883731 ; Colonel Fabien
+2.389500 ; 48.883329 ; Belleville
+2.396877 ; 48.882061 ; Couronnes
+2.402634 ; 48.881683 ; Ménilmontant
+2.409072 ; 48.868056 ; Père Lachaise
+2.415227 ; 48.866663 ; Philippe Auguste
+2.420834 ; 48.865362 ; Alexandre Dumas
+2.427779 ; 48.864199 ; Avron
+2.435569 ; 48.859036 ; Nation
+2.286132 ; 48.894892 ; Pont de Levallois - Bécon
+2.294496 ; 48.894171 ; Anatole France
+2.296072 ; 48.892559 ; Louise Michel
+2.296218 ; 48.888471 ; Porte de Champerret
+2.294136 ; 48.885719 ; Pereire
+2.293525 ; 48.883450 ; Wagram
+2.294007 ; 48.878753 ; Malesherbes
+2.298731 ; 48.873159 ; Villiers
+2.305496 ; 48.869132 ; Europe
+2.308839 ; 48.865696 ; Saint-Lazare
+2.315768 ; 48.860932 ; Havre - Caumartin
+2.321428 ; 48.857459 ; Opéra
+2.327165 ; 48.854177 ; Quatre-Septembre
+2.331423 ; 48.851941 ; Bourse
+2.336646 ; 48.848342 ; Sentier
+2.342280 ; 48.846982 ; Réaumur - Sébastopol
+2.345930 ; 48.844425 ; Arts et Métiers
+2.350619 ; 48.840524 ; Temple
+2.352843 ; 48.836453 ; République
+2.359530 ; 48.869121 ; Parmentier
+2.362822 ; 48.867001 ; Rue Saint-Maur
+2.366092 ; 48.865405 ; Père Lachaise
+2.378326 ; 48.863944 ; Gambetta
+2.387558 ; 48.858560 ; Porte de Bagnolet
+2.398174 ; 48.857148 ; Gallieni
+2.340883 ; 48.899453 ; Porte de Clignancourt
+2.344217 ; 48.895748 ; Simplon
+2.350037 ; 48.892710 ; Marcadet - Poissonniers
+2.355587 ; 48.890739 ; Château Rouge
+2.357813 ; 48.885170 ; Barbès - Rochechouart
+2.358789 ; 48.880632 ; Gare du Nord
+2.356787 ; 48.877988 ; Gare de l'Est
+2.357237 ; 48.872012 ; Château d'Eau
+2.359935 ; 48.868453 ; Strasbourg - Saint-Denis
+2.363411 ; 48.866103 ; Réaumur - Sébastopol
+2.366679 ; 48.862232 ; Étienne Marcel
+2.369128 ; 48.859544 ; Les Halles
+2.352789 ; 48.857470 ; Châtelet
+2.346215 ; 48.853772 ; Cité
+2.344048 ; 48.850405 ; Saint-Michel
+2.342917 ; 48.846553 ; Odéon
+2.343675 ; 48.842915 ; Saint-Germain-des-Prés
+2.336588 ; 48.839533 ; Saint-Sulpice
+2.333805 ; 48.838515 ; Saint-Placide
+2.327219 ; 48.836349 ; Montparnasse - Bienvenüe
+2.322792 ; 48.837424 ; Vavin
+2.326278 ; 48.840481 ; Raspail
+2.327516 ; 48.845573 ; Denfert-Rochereau
+2.329367 ; 48.847749 ; Mouton-Duvernet
+2.334824 ; 48.847736 ; Alésia
+2.340122 ; 48.847232 ; Porte d'Orléans
+2.319327 ; 48.818352 ; Mairie de Montrouge
+2.317571 ; 48.809335 ; Barbara
+2.317871 ; 48.803435 ; Bagneux - Lucie Aubrac
+2.426339 ; 48.930009 ; Bobigny - Pablo Picasso
+2.425493 ; 48.917855 ; Bobigny - Pantin
+2.412564 ; 48.902740 ; Église de Pantin
+2.400990 ; 48.893852 ; Hoche
+2.392685 ; 48.889146 ; Porte de Pantin
+2.378932 ; 48.883741 ; Ourcq
+2.370343 ; 48.878225 ; Laumière
+2.366505 ; 48.874924 ; Jaurès
+2.362607 ; 48.868122 ; Stalingrad
+2.359893 ; 48.861414 ; Gare du Nord
+2.355890 ; 48.857860 ; Gare de l'Est
+2.353442 ; 48.854258 ; Jacques Bonsergent
+2.348711 ; 48.847738 ; République
+2.348012 ; 48.846105 ; Oberkampf
+2.369275 ; 48.845156 ; Richard-Lenoir
+2.372665 ; 48.845347 ; Bréguet - Sabin
+2.377102 ; 48.852792 ; Bastille
+2.387570 ; 48.852554 ; Quai de la Rapée
+2.394406 ; 48.853693 ; Gare d'Austerlitz
+2.401294 ; 48.854438 ; Saint-Marcel
+2.412163 ; 48.853085 ; Campo-Formio
+2.416963 ; 48.848992 ; Place d'Italie
+2.269548 ; 48.861398 ; Charles de Gaulle - Étoile
+2.281012 ; 48.876108 ; Kléber
+2.282654 ; 48.873200 ; Boissière
+2.282878 ; 48.867459 ; Trocadéro
+2.286457 ; 48.860689 ; Passy
+2.287797 ; 48.857107 ; Bir-Hakeim
+2.292943 ; 48.853771 ; Dupleix
+2.295086 ; 48.852243 ; La Motte-Picquet - Grenelle
+2.295408 ; 48.849638 ; Cambronne
+2.299237 ; 48.847040 ; Sèvres - Lecourbe
+2.301145 ; 48.845469 ; Pasteur
+2.305424 ; 48.843836 ; Montparnasse - Bienvenüe
+2.314674 ; 48.843409 ; Edgar Quinet
+2.319287 ; 48.843815 ; Raspail
+2.328868 ; 48.845364 ; Denfert-Rochereau
+2.331042 ; 48.845762 ; Saint-Jacques
+2.337001 ; 48.839813 ; Glacière
+2.341176 ; 48.835373 ; Corvisart
+2.345936 ; 48.831702 ; Place d'Italie
+2.3628272 ; 48.8331995 ; Nationale
+2.3681023 ; 48.83495 ; Chevaleret
+2.3728619 ; 48.8370444 ; Quai de la Gare
+2.380847 ; 48.8367988 ; Bercy
+2.3897217 ; 48.8390379 ; Dugommier
+2.4009129 ; 48.8413382 ; Bel-Air
+2.4010857 ; 48.8450724 ; Picpus
+2.3955668 ; 48.847611 ; Nation
+2.293710 ; 48.882173 ; La Courneuve - 8 Mai 1945
+2.393319 ; 48.903361 ; Fort d'Aubervilliers
+2.382760 ; 48.906135 ; Aubervilliers - Pantin - Quatre Chemins
+2.377805 ; 48.909421 ; Porte de la Villette
+2.366425 ; 48.911628 ; Corentin Cariou
+2.359207 ; 48.915543 ; Crimée
+2.353613 ; 48.918168 ; Riquet
+2.349381 ; 48.918387 ; Stalingrad
+2.359784 ; 48.895222 ; Louis Blanc
+2.364378 ; 48.885302 ; Château-Landon
+2.367707 ; 48.877733 ; Gare de l'Est
+2.354214 ; 48.871213 ; Poissonnière
+2.347826 ; 48.869778 ; Cadet
+2.339798 ; 48.868019 ; Le Peletier
+2.336543 ; 48.867024 ; Chaussée d'Antin - La Fayette
+2.333259 ; 48.866255 ; Opéra
+2.327737 ; 48.864154 ; Pyramides
+2.329890 ; 48.862103 ; Palais Royal - Musée du Louvre
+2.337712 ; 48.854521 ; Pont Neuf
+2.344431 ; 48.852958 ; Châtelet
+2.349956 ; 48.855034 ; Pont Marie
+2.354398 ; 48.857203 ; Sully - Morland
+2.361733 ; 48.852632 ; Jussieu
+2.366620 ; 48.852695 ; Place Monge
+2.367743 ; 48.844868 ; Censier - Daubenton
+2.357865 ; 48.839798 ; Les Gobelins
+2.355672 ; 48.836599 ; Place d'Italie
+2.3573505 ; 48.8260904 ; Tolbiac
+2.358504 ; 48.8224745 ; Maison Blanche
+2.359533 ; 48.8190866 ; Porte d'Italie
+2.3647858 ; 48.8201241 ; Porte de Choisy
+2.3693411 ; 48.8216035 ; Porte d'Ivry
+2.3773455 ; 48.8159011 ; Pierre et Marie Curie
+2.3839772 ; 48.810989 ; Mairie d'Ivry
+2.3570028 ; 2.3570028 ; Le Kremlin - Bicêtre
+2.3637903 ; 48.8051317 ; Villejuif - Léo Lagrange
+2.3682363 ; 48.7965545 ; Villejuif - Paul Vaillant-Couturier
+2.3673857 ; 48.7869402 ; Villejuif - Louis Aragon
+2.391282 ; 48.932367 ; Balard
+2.395609 ; 48.828900 ; Lourmel
+2.395509 ; 48.834305 ; Boucicaut
+2.394000 ; 48.840979 ; Félix Faure
+2.387698 ; 48.846202 ; Commerce
+2.385644 ; 48.848605 ; La Motte-Picquet - Grenelle
+2.294119 ; 48.851619 ; École Militaire
+2.298998 ; 48.855281 ; La Tour-Maubourg
+2.300833 ; 48.856727 ; Invalides
+2.313505 ; 48.859066 ; Concorde
+2.319414 ; 48.861498 ; Madeleine
+2.328092 ; 48.864157 ; Opéra
+2.333762 ; 48.865369 ; Richelieu - Drouot
+2.342266 ; 48.866217 ; Grands Boulevards
+2.346782 ; 48.869367 ; Bonne Nouvelle
+2.351092 ; 48.870284 ; Strasbourg - Saint-Denis
+2.356459 ; 48.870948 ; République
+2.365289 ; 48.872392 ; Filles du Calvaire
+2.368665 ; 48.875042 ; Saint-Sébastien - Froissart
+2.371198 ; 48.876906 ; Chemin Vert
+2.373955 ; 48.878993 ; Bastille
+2.376951 ; 48.880842 ; Ledru-Rollin
+2.383198 ; 48.882526 ; Faidherbe - Chaligny
+2.390432 ; 48.844547 ; Reuilly - Diderot
+2.397319 ; 48.840125 ; Montgallet
+2.401000 ; 48.836768 ; Daumesnil
+2.405610 ; 48.833803 ; Michel Bizot
+2.409875 ; 48.831204 ; Porte Dorée
+2.414174 ; 48.829154 ; Porte de Charenton
+2.416890 ; 48.826854 ; Liberté
+2.419247 ; 48.823607 ; Charenton - Écoles
+2.423748 ; 48.821289 ; École Vétérinaire de Maisons-Alfort
+2.427286 ; 48.820312 ; Maisons-Alfort - Stade
+2.429630 ; 48.814608 ; Maisons-Alfort - Les Juilliottes
+2.431405 ; 48.809838 ; Créteil - L'Échat
+2.434260 ; 48.805286 ; Créteil - Université
+2.436062 ; 48.799288 ; Créteil - Préfecture
+2.442729 ; 48.790312 ; Pointe du Lac
+2.255503 ; 48.848186 ; Pont de Sèvres
+2.259426 ; 48.839013 ; Billancourt
+2.265115 ; 48.833033 ; Marcel Sembat
+2.271872 ; 48.827797 ; Porte de Saint-Cloud
+2.277070 ; 48.823658 ; Exelmans
+2.274901 ; 48.816539 ; Michel-Ange - Molitor
+2.272770 ; 48.809942 ; Michel-Ange - Auteuil
+2.269282 ; 48.805393 ; Jasmin
+2.269657 ; 48.799122 ; Ranelagh
+2.270537 ; 48.794488 ; La Muette
+2.272752 ; 48.790075 ; Rue de la Pompe
+2.279271 ; 48.885647 ; Trocadéro
+2.291290 ; 48.875441 ; Iéna
+2.300974 ; 48.866519 ; Alma - Marceau
+2.310563 ; 48.864343 ; Franklin D. Roosevelt
+2.321155 ; 48.863951 ; Saint-Philippe du Roule
+2.328452 ; 48.873812 ; Miromesnil
+2.333892 ; 48.875313 ; Saint-Augustin
+2.339237 ; 48.876905 ; Havre - Caumartin
+2.344530 ; 48.879304 ; Chaussée d'Antin - La Fayette
+2.348742 ; 48.880912 ; Richelieu - Drouot
+2.354601 ; 48.882345 ; Grands Boulevards
+2.361546 ; 48.882132 ; Bonne Nouvelle
+2.366160 ; 48.879062 ; Strasbourg - Saint-Denis
+2.369886 ; 48.873464 ; République
+2.379613 ; 48.870707 ; Oberkampf
+2.386688 ; 48.867473 ; Saint-Ambroise
+2.390767 ; 48.861236 ; Voltaire
+2.395123 ; 48.853956 ; Charonne
+2.400578 ; 48.849670 ; Rue des Boulets
+2.403958 ; 48.847092 ; Nation
+2.410754 ; 48.843939 ; Buzenval
+2.416460 ; 48.842187 ; Maraîchers
+2.421421 ; 48.838532 ; Porte de Montreuil
+2.424769 ; 48.834262 ; Robespierre
+2.428819 ; 48.830344 ; Croix de Chavaux
+2.434341 ; 48.826668 ; Mairie de Montreuil
+2.259516 ; 48.850399 ; Boulogne - Pont de Saint-Cloud
+2.245492 ; 48.847106 ; Boulogne - Jean Jaurès
+2.229545 ; 48.847512 ; Porte d'Auteuil
+2.225203 ; 48.846944 ; Michel-Ange - Auteuil
+2.220634 ; 48.846294 ; Église d'Auteuil
+2.215870 ; 48.844809 ; Michel-Ange - Molitor
+2.209153 ; 48.845152 ; Chardon Lagache
+2.201685 ; 48.846084 ; Mirabeau
+2.196677 ; 48.847090 ; Javel - André Citroën
+2.189738 ; 48.848470 ; Charles Michels
+2.182881 ; 48.848896 ; Avenue Émile Zola
+2.175285 ; 48.848583 ; La Motte-Picquet - Grenelle
+2.167244 ; 48.848813 ; Ségur
+2.158244 ; 48.849312 ; Duroc
+2.153932 ; 48.849203 ; Vaneau
+2.147926 ; 48.848590 ; Sèvres - Babylone
+2.143166 ; 48.848456 ; Mabillon
+2.136073 ; 48.849250 ; Odéon
+2.130775 ; 48.851565 ; Cluny - La Sorbonne
+2.129251 ; 48.853328 ; Maubert - Mutualité
+2.128217 ; 48.854953 ; Cardinal Lemoine
+2.123861 ; 48.856804 ; Jussieu
+2.120354 ; 48.841924 ; Gare d'Austerlitz
+2.370528 ; 48.873921 ; Hôtel de Ville
+2.377565 ; 48.868638 ; Rambuteau
+2.382924 ; 48.864712 ; Arts et Métiers
+2.388795 ; 48.862585 ; République
+2.395516 ; 48.858529 ; Goncourt
+2.400908 ; 48.856235 ; Belleville
+2.408725 ; 48.875726 ; Pyrénées
+2.413383 ; 48.874385 ; Jourdain
+2.418891 ; 48.873172 ; Place des Fêtes
+2.424668 ; 48.871633 ; Télégraphe
+2.431095 ; 48.869537 ; Porte des Lilas
+2.448374 ; 48.867630 ; Mairie des Lilas
+2.381628 ; 48.914604 ; Mairie d'Aubervilliers
+2.3778513 ; 48.9082256 ; Aimé Césaire
+2.344137 ; 48.906661 ; Front Populaire
+2.346652 ; 48.900180 ; Aubervilliers - Pantin - Quatre Chemins
+2.350769 ; 48.892672 ; Porte de la Chapelle
+2.357377 ; 48.886832 ; Marx Dormoy
+2.361306 ; 48.883190 ; Marcadet - Poissonniers
+2.350126 ; 48.884113 ; Jules Joffrin
+2.344955 ; 48.884014 ; Lamarck - Caulaincourt
+2.338363 ; 48.884785 ; Abbesses
+2.337641 ; 48.886710 ; Pigalle
+2.335852 ; 48.890365 ; Saint-Georges
+2.331666 ; 48.879345 ; Notre-Dame-de-Lorette
+2.328452 ; 48.873812 ; Trinité - d'Estienne d'Orves
+2.326029 ; 48.870965 ; Saint-Lazare
+2.322473 ; 48.868492 ; Madeleine
+2.322264 ; 48.865905 ; Concorde
+2.325970 ; 48.860856 ; Assemblée Nationale
+2.323185 ; 48.856483 ; Solférino
+2.320908 ; 48.854549 ; Rue du Bac
+2.318135 ; 48.850960 ; Sèvres - Babylone
+2.314829 ; 48.847342 ; Rennes
+2.329535 ; 48.843064 ; Notre-Dame-des-Champs
+2.327265 ; 48.839435 ; Montparnasse - Bienvenüe
+2.324351 ; 48.834240 ; Falguière
+2.319924 ; 48.830626 ; Pasteur
+2.309937 ; 48.828749 ; Volontaires
+2.306546 ; 48.826617 ; Vaugirard
+2.296710 ; 48.825911 ; Convention
+2.287777 ; 48.826205 ; Porte de Versailles
+2.277812 ; 48.826149 ; Corentin Celton
+2.271373 ; 48.823868 ; Mairie d'Issy
+2.283854 ; 48.932699 ; Asnières-Gennevilliers - Les Courtilles
+2.290057 ; 48.922136 ; Les Agnettes
+2.299524 ; 48.916026 ; Gabriel Péri
+2.305776 ; 48.911648 ; Mairie de Clichy
+2.316561 ; 48.906372 ; Porte de Clichy
+2.321804 ; 48.896742 ; Brochant
+2.301179 ; 48.811301 ; Châtillon - Montrouge
+2.308219 ; 48.817898 ; Malakoff - Rue Étienne Dolet
+2.311564 ; 48.822114 ; Malakoff - Plateau de Vanves
+2.315264 ; 48.826714 ; Porte de Vanves
+2.319074 ; 48.831653 ; Plaisance
+2.323468 ; 48.833439 ; Pernety
+2.326065 ; 48.837221 ; Gaîté
+2.327265 ; 48.839435 ; Montparnasse - Bienvenüe
+2.331154 ; 48.843283 ; Duroc
+2.336686 ; 48.847222 ; Saint-François-Xavier
+2.336908 ; 48.851841 ; Varenne
+2.338377 ; 48.857315 ; Invalides
+2.338036 ; 48.864316 ; Champs-Élysées - Clemenceau
+2.336037 ; 48.869163 ; Miromesnil
+2.331666 ; 48.873402 ; Saint-Lazare
+2.327313 ; 48.880745 ; Liège
+2.328203 ; 48.884342 ; Place de Clichy
+2.328576 ; 48.887956 ; La Fourche
+2.363262 ; 48.948516 ; Saint-Denis - Université
+2.359404 ; 48.941018 ; Basilique de Saint-Denis
+2.356193 ; 48.934271 ; Saint-Denis - Porte de Paris
+2.346714 ; 48.928128 ; Carrefour Pleyel
+2.337349 ; 48.892527 ; Guy Môquet
+2.341064 ; 48.896960 ; Porte de Saint-Ouen
+2.344249 ; 48.901599 ; Garibaldi
+2.346194 ; 48.906645 ; Mairie de Saint-Ouen
+2.259399 ; 48.837032 ; Mairie de Saint-Ouen
+2.328467 ; 48.896384 ; Porte de Clichy
+2.321324 ; 48.887214 ; Pont Cardinet
+2.315931 ; 48.880120 ; Brochant
+2.326665 ; 48.875566 ; Saint Lazare
+2.321612 ; 48.867930 ; Madeleine
+2.320702 ; 48.864355 ; Pyramides
+2.331150 ; 48.859221 ; Châtelet
+2.348482 ; 48.847002 ; Gare de Lyon
+2.370275 ; 48.841823 ; Bercy
+2.385945 ; 48.838038 ; Cour Saint-Émilion
+2.407720 ; 48.835594 ; Bibliothèque François Mitterrand
+2.414945 ; 48.827080 ; Olympiades

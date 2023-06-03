@@ -68,16 +68,19 @@ void ecrire_liste(Un_elem **liste){
         char *ligne = strtok(buffer, ";");
 
         //On va remplir les variables
-        coord.latitude = atof(ligne);
+        coord.longitude = atof(ligne);
         ligne = strtok(NULL, ";");
 
-        coord.longitude = atof(ligne);
+        coord.latitude = atof(ligne);
         ligne = strtok(NULL, ";");
 
         strcpy(sta.nom, ligne);
         //On supprime l'espace du début et \n de la fin
         memmove(sta.nom, sta.nom + 1, strlen(sta.nom));
         sta.nom[strlen(sta.nom) - 1] = '\0';
+
+        sta.tab_con = (Un_truc **)malloc(sizeof(Un_truc *) * 10);
+        sta.nb_con = 0;
 
         //On crée l'élément et on le rajoute à la liste
         data.sta = sta;

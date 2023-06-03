@@ -1,9 +1,9 @@
 #ifndef _TRUC_H_
 #define _TRUC_H_
 
+#include "coord.h"
 #include "station.h"
 #include "connexion.h"
-#include "coord.h"
 
 typedef enum _ttype{STA, CON} Ttype;
 

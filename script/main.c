@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+
 #include "truc.h"
 #include "liste.h"
 #include "abr.h"
@@ -41,6 +42,7 @@ int main(void){
     Un_elem *liste_station = NULL;
     ecrire_liste(&liste_station);
     Un_abr *abr = construire_abr(liste_station);
+    afficher_abr(abr);
     char *nom = "La Défense - Grande Arche";
     Un_truc *truc2 = chercher_station(abr, nom);
     Un_truc *truc3 = chercher_station(abr, "");
@@ -55,7 +57,23 @@ int main(void){
     printf("--------------------\n");
     Une_ligne *ligne = lire_ligne("ligne.csv");
     afficher_ligne(ligne);
+    char *code = "1";
+    Une_ligne *ligne2 = chercher_ligne(ligne, code);
+    printf("Ligne 2 : \n");
+    printf("Code : %s\n", ligne2->code);
     detruire_ligne(ligne);
+
+    printf("\n");
+    printf("Test 5\n");
+    printf("--------------------\n");
+    Un_elem *liste_station2 = NULL;
+    ecrire_liste(&liste_station2);
+    Un_abr *abr2 = construire_abr(liste_station2);
+    Une_ligne *ligne3 = lire_ligne("ligne.csv");
+    Un_elem *liste_connexion = lire_connexion("connexion.csv", ligne3, abr2);
+    printf("test\n");
+    affiche_liste(liste_connexion);
+    printf("test\n");
 
     return 0;
 }
