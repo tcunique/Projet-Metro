@@ -6,6 +6,7 @@
 #include "liste.h"
 #include "abr.h"
 #include "ligne.h"
+#include "aqrtopo.h"
 
 
 int main(void){
@@ -77,6 +78,28 @@ int main(void){
     detruire_liste_truc(liste_station2);
     detruire_ligne(ligne3);
 
+    printf("\n");
+    printf("Test 6\n");
+    printf("--------------------\n");
+    Un_elem *liste_station3 = NULL;
+    ecrire_liste(&liste_station3);
+    Un_noeud *aqr = construire_aqr(liste_station3);
+    Une_coord coord1;
+    coord1.latitude = 48.827080;
+    coord1.longitude = 2.414945;
+
+    Un_truc *truc4 = chercher_aqr(aqr, coord1);
+    afficher_truc(truc4);
+
+    Une_coord limite_no;
+    limite_no.latitude = 48.852958; 
+    limite_no.longitude = 2.344431; 
+    Une_coord limite_se;
+    limite_se.latitude = 48.827080;
+    limite_se.longitude = 2.414945; 
+
+    detruire_aqr(aqr);
+    detruire_liste_truc(liste_station3);
 
     return 0;
 }
