@@ -1,20 +1,20 @@
 1 ; La Défense - Grande Arche ; Esplanade de la Défense ; 0.0
 1 ; Esplanade de la Défense ; Pont de Neuilly ; 0.0
-1 ; Pont de Neuilly ; Les Sablons (Jardin d'Acclimatation) ; 0.0
-1 ; Les Sablons (Jardin d'Acclimatation) ; Porte Maillot (Palais des Congrès) ; 0.0
-1 ; Porte Maillot (Palais des Congrès) ; Argentine ; 0.0
+1 ; Pont de Neuilly ; Les Sablons ; 0.0
+1 ; Les Sablons ; Porte Maillot ; 0.0
+1 ; Porte Maillot ; Argentine ; 0.0
 1 ; Argentine ; Charles de Gaulle - Étoile ; 0.0
 1 ; Charles de Gaulle - Étoile ; George V ; 0.0
 1 ; George V ; Franklin D. Roosevelt ; 0.0
-1 ; Franklin D. Roosevelt ; Champs-Élysées - Clemenceau (Grand Palais) ; 0.0
-1 ; Champs-Élysées - Clemenceau (Grand Palais) ; Concorde ; 0.0
+1 ; Franklin D. Roosevelt ; Champs-Élysées - Clemenceau ; 0.0
+1 ; Champs-Élysées - Clemenceau ; Concorde ; 0.0
 1 ; Concorde ; Tuileries ; 0.0
 1 ; Tuileries ; Palais Royal - Musée du Louvre ; 0.0
 1 ; Palais Royal - Musée du Louvre ; Louvre - Rivoli ; 0.0
 1 ; Louvre - Rivoli ; Châtelet ; 0.0
 1 ; Châtelet ; Hôtel de Ville ; 0.0
-1 ; Hôtel de Ville ; Saint-Paul (Le Marais) ; 0.0
-1 ; Saint-Paul (Le Marais) ; Bastille ; 0.0
+1 ; Hôtel de Ville ; Saint-Paul ; 0.0
+1 ; Saint-Paul ; Bastille ; 0.0
 1 ; Bastille ; Gare de Lyon ; 0.0
 1 ; Gare de Lyon ; Reuilly - Diderot ; 0.0
 1 ; Reuilly - Diderot ; Nation ; 0.0
@@ -49,8 +49,8 @@
 3 ; Pont de Levallois - Bécon ; Anatole France ; 0.0
 3 ; Anatole France ; Louise Michel ; 0.0
 3 ; Louise Michel ; Porte de Champerret ; 0.0
-3 ; Porte de Champerret ; Pereire (Maréchal Juin) ; 0.0
-3 ; Pereire (Maréchal Juin) ; Wagram ; 0.0
+3 ; Porte de Champerret ; Pereire ; 0.0
+3 ; Pereire ; Wagram ; 0.0
 3 ; Wagram ; Malesherbes ; 0.0
 3 ; Malesherbes ; Villiers ; 0.0
 3 ; Villiers ; Europe ; 0.0
@@ -75,8 +75,8 @@
 4 ; Marcadet - Poissonniers ; Château Rouge ; 0.0
 4 ; Château Rouge ; Barbès - Rochechouart ; 0.0
 4 ; Barbès - Rochechouart ; Gare du Nord ; 0.0
-4 ; Gare du Nord ; Gare de l'Est (Verdun) ; 0.0
-4 ; Gare de l'Est (Verdun) ; Château d'Eau ; 0.0
+4 ; Gare du Nord ; Gare de l'Est ; 0.0
+4 ; Gare de l'Est ; Château d'Eau ; 0.0
 4 ; Château d'Eau ; Strasbourg - Saint-Denis ; 0.0
 4 ; Strasbourg - Saint-Denis ; Réaumur - Sébastopol ; 0.0
 4 ; Réaumur - Sébastopol ; Étienne Marcel ; 0.0
@@ -108,7 +108,7 @@
 5 ; Jaurès ; Stalingrad ; 0.0
 5 ; Stalingrad ; Gare du Nord ; 0.0
 5 ; Gare du Nord ; Gare de l'Est ; 0.0
-5 ; Gare de l'Est (Verdun) ; Jacques Bonsergent ; 0.0
+5 ; Gare de l'Est ; Jacques Bonsergent ; 0.0
 5 ; Jacques Bonsergent ; République ; 0.0
 5 ; République ; Oberkampf ; 0.0
 5 ; Oberkampf ; Richard-Lenoir ; 0.0
@@ -162,8 +162,8 @@
 7 ; Le Peletier ; Chaussée d'Antin - La Fayette ; 0.0
 7 ; Chaussée d'Antin - La Fayette ; Opéra ; 0.0
 7 ; Opéra ; Pyramides ; 0.0
-7 ; Pyramides ; Palais Royal ; 0.0
-7 ; Palais Royal ; Pont Neuf ; 0.0
+7 ; Pyramides ; Palais Royal - Musée du Louvre ; 0.0
+7 ; Palais Royal - Musée du Louvre ; Pont Neuf ; 0.0
 7 ; Pont Neuf ; Châtelet ; 0.0
 7 ; Châtelet ; Pont Marie ; 0.0
 7 ; Pont Marie ; Sully - Morland ; 0.0
@@ -179,6 +179,10 @@
 7 ; Porte de Choisy ; Porte d'Ivry ; 0.0
 7 ; Porte d'Ivry ; Pierre et Marie Curie ; 0.0
 7 ; Pierre et Marie Curie ; Mairie d'Ivry ; 0.0
+7 ; Maison Blanche ; Le Kremlin - Bicêtre ; 0.0
+7 ; Le Kremlin - Bicêtre ; Villejuif - Léo Lagrange ; 0.0
+7 ; Villejuif - Léo Lagrange ; Villejuif - Paul Vaillant-Couturier ; 0.0
+7 ; Villejuif - Paul Vaillant-Couturier ; Villejuif - Louis Aragon ; 0.0
 8 ; Balard ; Lourmel ; 0.0
 8 ; Lourmel ; Boucicaut ; 0.0
 8 ; Boucicaut ; Félix Faure ; 0.0
@@ -214,6 +218,8 @@
 8 ; Maisons-Alfort - Stade ; Maisons-Alfort - Les Juilliottes ; 0.0
 8 ; Maisons-Alfort - Les Juilliottes ; Créteil - L'Échat ; 0.0
 8 ; Créteil - L'Échat ; Créteil - Université ; 0.0
+8 ; Créteil - Université ; Créteil - Préfecture ; 0.0
+8 ; Créteil - Préfecture ; Pointe du Lac ; 0.0
 9 ; Pont de Sèvres ; Billancourt ; 0.0
 9 ; Billancourt ; Marcel Sembat ; 0.0
 9 ; Marcel Sembat ; Porte de Saint-Cloud ; 0.0
@@ -244,10 +250,18 @@
 9 ; Voltaire ; Charonne ; 0.0
 9 ; Charonne ; Rue des Boulets ; 0.0
 9 ; Rue des Boulets ; Nation ; 0.0
+9 ; Nation ; Buzenval ; 0.0
+9 ; Buzenval ; Maraîchers ; 0.0
+9 ; Maraîchers ; Porte de Montreuil ; 0.0
+9 ; Porte de Montreuil ; Robespierre ; 0.0
+9 ; Robespierre ; Croix de Chavaux ; 0.0
+9 ; Croix de Chavaux ; Mairie de Montreuil ; 0.0
 10 ; Boulogne - Pont de Saint-Cloud ; Boulogne - Jean Jaurès ; 0.0
-10 ; Boulogne - Jean Jaurès ; Michel-Ange - Molitor ; 0.0
-10 ; Michel-Ange - Molitor ; Chardon-Lagache ; 0.0
-10 ; Chardon-Lagache ; Mirabeau ; 0.0
+10 ; Boulogne - Jean Jaurès ; Porte d'Auteuil ; 0.0
+10 ; Porte d'Auteuil ; Michel-Ange - Auteuil ; 0.0
+10 ; Michel-Ange - Auteuil ; Michel-Ange - Molitor ; 0.0
+10 ; Michel-Ange - Molitor ; Chardon Lagache ; 0.0
+10 ; Chardon Lagache ; Mirabeau ; 0.0
 10 ; Mirabeau ; Javel - André Citroën ; 0.0
 10 ; Javel - André Citroën ; Charles Michels ; 0.0
 10 ; Charles Michels ; Avenue Émile Zola ; 0.0
@@ -263,18 +277,10 @@
 10 ; Maubert - Mutualité ; Cardinal Lemoine ; 0.0
 10 ; Cardinal Lemoine ; Jussieu ; 0.0
 10 ; Jussieu ; Gare d'Austerlitz ; 0.0
-10 ; Gare d'Austerlitz ; Quai de la Rapée ; 0.0
-10 ; Quai de la Rapée ; Faidherbe - Chaligny ; 0.0
-10 ; Faidherbe - Chaligny ; Reuilly - Diderot ; 0.0
-10 ; Reuilly - Diderot ; Montgallet ; 0.0
-10 ; Montgallet ; Nation ; 0.0
 11 ; Châtelet ; Hôtel de Ville ; 0.0
 11 ; Hôtel de Ville ; Rambuteau ; 0.0
-11 ; Rambuteau ; Châtelet - Les Halles ; 0.0
-11 ; Châtelet - Les Halles ; Réaumur - Sébastopol ; 0.0
-11 ; Réaumur - Sébastopol ; Arts et Métiers ; 0.0
-11 ; Arts et Métiers ; Temple ; 0.0
-11 ; Temple ; République ; 0.0
+11 ; Rambuteau ; Arts et Métiers ; 0.0
+11 ; Arts et Métiers ; République ; 0.0
 11 ; République ; Goncourt ; 0.0
 11 ; Goncourt ; Belleville ; 0.0
 11 ; Belleville ; Pyrénées ; 0.0
@@ -282,6 +288,7 @@
 11 ; Jourdain ; Place des Fêtes ; 0.0
 11 ; Place des Fêtes ; Télégraphe ; 0.0
 11 ; Télégraphe ; Porte des Lilas ; 0.0
+11 ; Porte des Lilas ; Mairie des Lilas ; 0.0
 12 ; Front Populaire ; Porte de la Chapelle ; 0.0
 12 ; Porte de la Chapelle ; Marx Dormoy ; 0.0
 12 ; Marx Dormoy ; Marcadet - Poissonniers ; 0.0
@@ -310,14 +317,20 @@
 12 ; Convention ; Porte de Versailles ; 0.0
 12 ; Porte de Versailles ; Corentin Celton ; 0.0
 12 ; Corentin Celton ; Mairie d'Issy ; 0.0
+13 ; Asnières-Gennevilliers - Les Courtilles ; Les Agnettes ; 0.0
+13 ; Les Agnettes ; Gabriel Péri ; 0.0
+13 ; Gabriel Péri ; Mairie de Clichy ; 0.0
+13 ; Mairie de Clichy ; Porte de Clichy ; 0.0
+13 ; Porte de Clichy ; Brochant ; 0.0
 13 ; Saint-Denis - Université ; Basilique de Saint-Denis ; 0.0
 13 ; Basilique de Saint-Denis ; Saint-Denis - Porte de Paris ; 0.0
 13 ; Saint-Denis - Porte de Paris ; Carrefour Pleyel ; 0.0
 13 ; Carrefour Pleyel ; Mairie de Saint-Ouen ; 0.0
 13 ; Mairie de Saint-Ouen ; Garibaldi ; 0.0
 13 ; Garibaldi ; Porte de Saint-Ouen ; 0.0
-13 ; Porte de Saint-Ouen ; Guy Môquet ; 0.0
-13 ; Guy Môquet ; La Fourche ; 0.0
+13 ; Brochant ; La Fourche ; 0.0
+13 ; La Fourche ; Guy Môquet ; 0.0
+13 ; Guy Môquet ; Porte de Saint-Ouen ; 0.0
 13 ; La Fourche ; Place de Clichy ; 0.0
 13 ; Place de Clichy ; Liège ; 0.0
 13 ; Liège ; Saint-Lazare ; 0.0
@@ -335,6 +348,9 @@
 13 ; Porte de Vanves ; Malakoff - Plateau de Vanves ; 0.0
 13 ; Malakoff - Plateau de Vanves ; Malakoff - Rue Étienne Dolet ; 0.0
 13 ; Malakoff - Rue Étienne Dolet ; Châtillon - Montrouge ; 0.0
+14 ; Mairie de Saint-Ouen ; Porte de Clichy ; 0.0
+14 ; Porte de Clichy ; Pont Cardinet ; 0.0
+14 ; Pont Cardinet ; Saint-Lazare ; 0.0
 14 ; Saint-Lazare ; Madeleine ; 0.0
 14 ; Madeleine ; Pyramides ; 0.0
 14 ; Pyramides ; Châtelet ; 0.0

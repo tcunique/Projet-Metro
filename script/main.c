@@ -16,6 +16,7 @@ int main(void){
 
     Une_station station;
     station.nom = (char *)malloc(sizeof(char) * 10);
+    station.tab_con = NULL;
     strcpy(station.nom, "Station 1");
 
     Ttype type = STA;
@@ -71,9 +72,11 @@ int main(void){
     Un_abr *abr2 = construire_abr(liste_station2);
     Une_ligne *ligne3 = lire_ligne("ligne.csv");
     Un_elem *liste_connexion = lire_connexion("connexion.csv", ligne3, abr2);
-    printf("test\n");
     affiche_liste(liste_connexion);
-    printf("test\n");
+    detruire_abr(abr2);
+    detruire_liste_truc(liste_station2);
+    detruire_ligne(ligne3);
+
 
     return 0;
 }

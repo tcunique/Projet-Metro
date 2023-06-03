@@ -51,11 +51,6 @@ void ecrire_liste(Un_elem **liste){
     while (feof(f) == 0)
     {
         fgets(buffer, 1024, f);
-        Un_elem *elem = (Un_elem *)malloc(sizeof(Un_elem));
-        if (elem == NULL) {
-            printf("Erreur d'allocation de mémoire pour elem\n");
-            exit(1);
-        }
 
         //Créer les variables pour le truc
         Une_coord coord;
@@ -85,8 +80,6 @@ void ecrire_liste(Un_elem **liste){
         //On crée l'élément et on le rajoute à la liste
         data.sta = sta;
         Un_truc *truc = creer_truc(coord, type, data, 0.0);
-        elem->truc = truc;
-        elem->suiv = NULL;
         *liste = inserer_liste_trie(*liste, truc);
     }
 }
