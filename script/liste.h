@@ -14,5 +14,8 @@ void ecrire_liste(Un_elem **liste);
 void detruire_liste_truc(Un_elem *liste);
 void affiche_liste(Un_elem *liste);
 void limites_zone(Un_elem *liste, Une_coord *limite_no, Une_coord *limite_se);
+Un_truc *extraire_liste(Un_elem **liste, Un_truc *truc);
+Un_truc *extraire_deb_liste(Un_elem **liste);
+void dijkstra(Un_elem *liste_sta, Un_truc *sta_dep);
 
 #endif /* _LISTE_H_ */

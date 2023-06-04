@@ -101,5 +101,17 @@ int main(void){
     detruire_aqr(aqr);
     detruire_liste_truc(liste_station3);
 
+    printf("\n");
+    printf("Test 7\n");
+    printf("--------------------\n");
+    Un_elem *liste_station4 = NULL;
+    ecrire_liste(&liste_station4);
+    Un_abr *abr3 = construire_abr(liste_station4);
+    Un_truc *truc5 = chercher_station(abr3, "La Défense - Grande Arche");
+    dijkstra(liste_station4, truc5);
+    affiche_liste(liste_station4);
+    detruire_liste_truc(liste_station4);
+
+
     return 0;
 }
